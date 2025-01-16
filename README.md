@@ -41,5 +41,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- [CS50](https://cs50.harvard.edu) - Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
+- [CS50](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) - Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
 - [Django](https://www.djangoproject.com) - The web framework for perfectionists with deadlines.
